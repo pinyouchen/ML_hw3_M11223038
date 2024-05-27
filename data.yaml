@@ -1,0 +1,8 @@
+
+train: D:/test3/container_dataset/train
+val: D:/test3/container_dataset/val
+test: D:/test3/container_dataset/test
+
+# Classes
+nc: 1
+names: ['container']
